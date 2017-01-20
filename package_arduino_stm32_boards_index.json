@@ -9,36 +9,6 @@
         "online": "http://www.seeedstudio.com/wiki/Main_Page"
       },
       "platforms": [
-        {
-          "name": "stm32f1",
-          "architecture": "stm32f1",
-          "version": "1.0.0",
-          "category": "Contributed",
-          "help": {
-            "online": "http://www.seeedstudio.com/wiki/Main_Page"
-          },
-          "url": "https://raw.githubusercontent.com/WayenWeng/arduino_stm32_boards/master/stm32f1_v1.0.0.tar.bz2",
-          "archiveFileName": "stm32f1_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:ac619613a11786c0ce485aca24bdcc8b1090dcfab4ddee25a541f2029834f1c0",
-          "size": "6549703",
-          "boards": [
-            {"name": "Maple Mini"},
-            {"name": "Maple (Rev 3)"},
-			{"name": "Maple (RET6)"},
-			{"name": "Microduino Core STM32 to Flash"},
-			{"name": "STM Nucleo F103RB (STLink)"},
-			{"name": "Generic STM32F103C series"},
-			{"name": "Generic STM32F103R series"},
-			{"name": "Generic STM32F103T series"},
-			{"name": "Generic STM32F103V series"},
-			{"name": "Generic STM32F103Z series"},
-			{"name": "HYTiny STM32F103TB"},
-			{"name": "Generic GD32F103C series"},
-			{"name": "STM32VLD to FLASH"}
-          ],
-          "toolsDependencies": [
-          ]
-        }，
 		{
           "name": "stm32f0",
           "architecture": "stm32f0",
