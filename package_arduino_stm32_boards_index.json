@@ -38,7 +38,26 @@
           ],
           "toolsDependencies": [
           ]
-        }     
+        }，
+		{
+          "name": "stm32f0",
+          "architecture": "stm32f0",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.seeedstudio.com/wiki/Main_Page"
+          },
+          "url": "https://raw.githubusercontent.com/WayenWeng/arduino_stm32_boards/master/stm32f0_v1.0.0.tar.bz2",
+          "archiveFileName": "stm32f0_v1.0.0.tar.bz2",
+          "checksum": "SHA-256:53de596e9ba423aaae2237677198f5815973696e14aa480a9b58d2e8362d7063",
+          "size": "1313541",
+          "boards": [
+            {"name": "BestU UF0"},
+            {"name": "eduino UNO"}
+          ],
+          "toolsDependencies": [
+          ]
+        }
       ],
       "tools": [
       ]
